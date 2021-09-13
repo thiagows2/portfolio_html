@@ -1,0 +1,58 @@
+.fotoPerfil
+{
+    height: 50%;
+    width: auto;
+    max-width: 50%;
+    border-radius: 50%;
+}
+.corPrimaria
+{
+    background-color: whitesmoke;
+}
+.corSecundaria
+{
+    background-color: #6a74c3;
+}
+p
+{
+    font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.icones
+{
+    padding-left: 10px;
+}
+.titulosGray
+{
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #6a74c3
+}
+
+.titulosWhite
+{
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: whitesmoke
+}
+.textoWhite
+{
+    color: white !important;
+}
+.textoFooter
+{
+    margin: 0px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+html
+{
+    scroll-behavior: smooth;
+}
+
